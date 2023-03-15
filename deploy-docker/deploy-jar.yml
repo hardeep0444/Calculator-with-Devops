@@ -6,3 +6,5 @@
       docker_image:
         name: hardeep8011/junit-devops
         source: pull
+    - name: Run container
+      shell: docker run -it -d hardeep8011/junit-devops
