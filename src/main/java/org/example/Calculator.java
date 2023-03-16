@@ -1,24 +1,37 @@
 package org.example;
 
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
+
 import java.util.Scanner;
 
 public class Calculator {
+
+    private static final Logger logger = LogManager.getLogger(Calculator.class);
+
     public static double add(double a, double b)
     {
+        logger.info("[SUM] - "+a+", "+b);
+        logger.info("[RESULT - SUM] - " + (a+b));
         return (a+b);
     }
     public static double subtract(double a, double b)
     {
+        logger.info("[SUBTRACT] - "+a+", "+b);
+        logger.info("[RESULT - DIFFERENCE] - " + (a-b));
         return (a-b);
     }
     public static double multiply(double a, double b)
     {
+        logger.info("[MULTIPLY] - "+a+", "+b);
+        logger.info("[RESULT - MULTIPLY] - " + (a*b));
         return (a*b);
     }
     public static double divide(double a, double b)
     {
+        logger.info("[DIVIDE] - "+a+", "+b);
+        logger.info("[RESULT - DIVIDE] - " + (a/b));
         if(b==0) throw new ArithmeticException();
-
         return (a/b);
     }
     public static void main(String[] args) {
