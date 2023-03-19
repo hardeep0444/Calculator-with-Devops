@@ -1,2 +1,2 @@
 [ubuntu]
-192.168.43.155 ansible_user=lohit
+192.168.112.155 ansible_user=lohit
