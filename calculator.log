@@ -186,3 +186,77 @@
 2023-03-19 19:57:05.028 [main] INFO  org.example.Calculator - [RESULT - NATURAL LOG] - 0.3222192947339193
 2023-03-19 19:57:05.030 [main] INFO  org.example.Calculator - [DIVIDE] - 4.0, 0.0
 2023-03-19 19:57:05.030 [main] INFO  org.example.Calculator - [RESULT - DIVIDE] - Infinity
+2023-03-19 23:45:57.682 [main] INFO  org.example.Calculator - [SQ ROOT] - 16.0
+2023-03-19 23:45:57.684 [main] INFO  org.example.Calculator - [RESULT - SQ ROOT] - 4.0
+2023-03-19 23:45:57.684 [main] INFO  org.example.Calculator - [SQ ROOT] - 1.0
+2023-03-19 23:45:57.684 [main] INFO  org.example.Calculator - [RESULT - SQ ROOT] - 1.0
+2023-03-19 23:45:57.684 [main] INFO  org.example.Calculator - [SQ ROOT] - 81.0
+2023-03-19 23:45:57.684 [main] INFO  org.example.Calculator - [RESULT - SQ ROOT] - 9.0
+2023-03-19 23:45:57.684 [main] INFO  org.example.Calculator - [SQ ROOT] - 36.0
+2023-03-19 23:45:57.684 [main] INFO  org.example.Calculator - [RESULT - SQ ROOT] - 6.0
+2023-03-19 23:45:57.689 [main] INFO  org.example.Calculator - [SUM] - 5.0, 5.0
+2023-03-19 23:45:57.689 [main] INFO  org.example.Calculator - [RESULT - SUM] - 10.0
+2023-03-19 23:45:57.690 [main] INFO  org.example.Calculator - [SUM] - 13.0, 12.0
+2023-03-19 23:45:57.690 [main] INFO  org.example.Calculator - [RESULT - SUM] - 25.0
+2023-03-19 23:45:57.690 [main] INFO  org.example.Calculator - [SQ ROOT] - 3.0
+2023-03-19 23:45:57.690 [main] INFO  org.example.Calculator - [RESULT - SQ ROOT] - 1.7320508075688772
+2023-03-19 23:45:57.691 [main] INFO  org.example.Calculator - [SQ ROOT] - 4.0
+2023-03-19 23:45:57.691 [main] INFO  org.example.Calculator - [RESULT - SQ ROOT] - 2.0
+2023-03-19 23:45:57.691 [main] INFO  org.example.Calculator - [SQ ROOT] - 81.0
+2023-03-19 23:45:57.691 [main] INFO  org.example.Calculator - [RESULT - SQ ROOT] - 9.0
+2023-03-19 23:45:57.691 [main] INFO  org.example.Calculator - [SQ ROOT] - 36.0
+2023-03-19 23:45:57.691 [main] INFO  org.example.Calculator - [RESULT - SQ ROOT] - 6.0
+2023-03-19 23:45:57.691 [main] INFO  org.example.Calculator - [MULTIPLY] - 5.0, 2.0
+2023-03-19 23:45:57.692 [main] INFO  org.example.Calculator - [RESULT - MULTIPLY] - 10.0
+2023-03-19 23:45:57.692 [main] INFO  org.example.Calculator - [MULTIPLY] - 10.0, 12.0
+2023-03-19 23:45:57.692 [main] INFO  org.example.Calculator - [RESULT - MULTIPLY] - 120.0
+2023-03-19 23:45:57.692 [main] INFO  org.example.Calculator - [SUBTRACT] - 5.0, 5.0
+2023-03-19 23:45:57.693 [main] INFO  org.example.Calculator - [RESULT - DIFFERENCE] - 0.0
+2023-03-19 23:45:57.693 [main] INFO  org.example.Calculator - [SUBTRACT] - 13.0, 12.0
+2023-03-19 23:45:57.693 [main] INFO  org.example.Calculator - [RESULT - DIFFERENCE] - 1.0
+2023-03-19 23:45:57.693 [main] INFO  org.example.Calculator - [NATURAL LOG] - 1.0
+2023-03-19 23:45:57.693 [main] INFO  org.example.Calculator - [RESULT - NATURAL LOG] - 0.0
+2023-03-19 23:45:57.694 [main] INFO  org.example.Calculator - [MULTIPLY] - 5.0, 5.0
+2023-03-19 23:45:57.694 [main] INFO  org.example.Calculator - [RESULT - MULTIPLY] - 25.0
+2023-03-19 23:45:57.694 [main] INFO  org.example.Calculator - [MULTIPLY] - 3.0, 12.0
+2023-03-19 23:45:57.694 [main] INFO  org.example.Calculator - [RESULT - MULTIPLY] - 36.0
+2023-03-19 23:45:57.694 [main] INFO  org.example.Calculator - [SUM] - 5.0, 2.0
+2023-03-19 23:45:57.695 [main] INFO  org.example.Calculator - [RESULT - SUM] - 7.0
+2023-03-19 23:45:57.695 [main] INFO  org.example.Calculator - [SUM] - 10.0, 12.0
+2023-03-19 23:45:57.695 [main] INFO  org.example.Calculator - [RESULT - SUM] - 22.0
+2023-03-19 23:45:57.695 [main] INFO  org.example.Calculator - [SUBTRACT] - 5.0, 2.0
+2023-03-19 23:45:57.695 [main] INFO  org.example.Calculator - [RESULT - DIFFERENCE] - 3.0
+2023-03-19 23:45:57.695 [main] INFO  org.example.Calculator - [SUBTRACT] - 12.0, 10.0
+2023-03-19 23:45:57.695 [main] INFO  org.example.Calculator - [RESULT - DIFFERENCE] - 2.0
+2023-03-19 23:45:57.696 [main] INFO  org.example.Calculator - [DIVIDE] - 5.0, 5.0
+2023-03-19 23:45:57.696 [main] INFO  org.example.Calculator - [RESULT - DIVIDE] - 1.0
+2023-03-19 23:45:57.696 [main] INFO  org.example.Calculator - [DIVIDE] - 12.0, 3.0
+2023-03-19 23:45:57.696 [main] INFO  org.example.Calculator - [RESULT - DIVIDE] - 4.0
+2023-03-19 23:45:57.697 [main] INFO  org.example.Calculator - [POWER - 2.0 RAISED TO] 3.0
+2023-03-19 23:45:57.697 [main] INFO  org.example.Calculator - [RESULT - POWER] - 8.0
+2023-03-19 23:45:57.697 [main] INFO  org.example.Calculator - [POWER - 3.0 RAISED TO] 3.0
+2023-03-19 23:45:57.697 [main] INFO  org.example.Calculator - [RESULT - POWER] - 27.0
+2023-03-19 23:45:57.697 [main] INFO  org.example.Calculator - [POWER - 4.0 RAISED TO] 3.0
+2023-03-19 23:45:57.697 [main] INFO  org.example.Calculator - [RESULT - POWER] - 64.0
+2023-03-19 23:45:57.697 [main] INFO  org.example.Calculator - [POWER - 5.0 RAISED TO] 3.0
+2023-03-19 23:45:57.697 [main] INFO  org.example.Calculator - [RESULT - POWER] - 125.0
+2023-03-19 23:45:57.698 [main] INFO  org.example.Calculator - [DIVIDE] - 5.0, 1.0
+2023-03-19 23:45:57.698 [main] INFO  org.example.Calculator - [RESULT - DIVIDE] - 5.0
+2023-03-19 23:45:57.698 [main] INFO  org.example.Calculator - [DIVIDE] - 120.0, 12.0
+2023-03-19 23:45:57.698 [main] INFO  org.example.Calculator - [RESULT - DIVIDE] - 10.0
+2023-03-19 23:45:57.698 [main] INFO  org.example.Calculator - [POWER - 2.0 RAISED TO] 3.0
+2023-03-19 23:45:57.698 [main] INFO  org.example.Calculator - [RESULT - POWER] - 8.0
+2023-03-19 23:45:57.699 [main] INFO  org.example.Calculator - [POWER - 1.0 RAISED TO] 3.0
+2023-03-19 23:45:57.699 [main] INFO  org.example.Calculator - [RESULT - POWER] - 1.0
+2023-03-19 23:45:57.699 [main] INFO  org.example.Calculator - [POWER - 3.0 RAISED TO] 4.0
+2023-03-19 23:45:57.699 [main] INFO  org.example.Calculator - [RESULT - POWER] - 81.0
+2023-03-19 23:45:57.699 [main] INFO  org.example.Calculator - [POWER - 4.0 RAISED TO] 3.0
+2023-03-19 23:45:57.699 [main] INFO  org.example.Calculator - [RESULT - POWER] - 64.0
+2023-03-19 23:45:57.699 [main] INFO  org.example.Calculator - [POWER - 5.0 RAISED TO] 2.0
+2023-03-19 23:45:57.699 [main] INFO  org.example.Calculator - [RESULT - POWER] - 25.0
+2023-03-19 23:45:57.699 [main] INFO  org.example.Calculator - [NATURAL LOG] - 2.4
+2023-03-19 23:45:57.699 [main] INFO  org.example.Calculator - [RESULT - NATURAL LOG] - 0.38021124171160603
+2023-03-19 23:45:57.699 [main] INFO  org.example.Calculator - [NATURAL LOG] - 2.1
+2023-03-19 23:45:57.700 [main] INFO  org.example.Calculator - [RESULT - NATURAL LOG] - 0.3222192947339193
+2023-03-19 23:45:57.701 [main] INFO  org.example.Calculator - [DIVIDE] - 4.0, 0.0
+2023-03-19 23:45:57.701 [main] INFO  org.example.Calculator - [RESULT - DIVIDE] - Infinity
