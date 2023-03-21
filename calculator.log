@@ -336,3 +336,5 @@
 2023-03-19 23:52:53.551 [main] INFO  org.example.Calculator - [RESULT - NATURAL LOG] - 0.3222192947339193
 2023-03-19 23:52:53.552 [main] INFO  org.example.Calculator - [DIVIDE] - 4.0, 0.0
 2023-03-19 23:52:53.552 [main] INFO  org.example.Calculator - [RESULT - DIVIDE] - Infinity
+2023-03-21 10:14:46.549 [main] INFO  org.example.Calculator - [SQ ROOT] - 10.0
+2023-03-21 10:14:46.551 [main] INFO  org.example.Calculator - [RESULT - SQ ROOT] - 3.1622776601683795
