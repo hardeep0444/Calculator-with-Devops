@@ -164,7 +164,7 @@ public class Calculator {
                     case 7:
                         System.out.println("\nEnter the power");
                         b = sc.nextDouble();
-                        System.out.println(a+ " raised to power "+b+" is : " + power(a, b));
+                        System.out.println(a+ " raised to power  "+b+" is : " + power(a, b));
                         break;
 
                     case 8:
