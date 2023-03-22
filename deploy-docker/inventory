@@ -1,2 +1,2 @@
 [ubuntu]
-ansible_host = 192.168.112.176 ansible_connection=ssh ansible_user=shux ansible_pass=0223
+ansible_host = 192.168.112.176 ansible_connection=ssh ansible_user=ansible_user ansible_pass=1234
