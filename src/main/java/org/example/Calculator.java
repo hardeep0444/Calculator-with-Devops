@@ -149,7 +149,7 @@ public class Calculator {
                             System.out.println("Division of the numbers = " + divide(a,b));
                         }catch (ArithmeticException e)
                         {
-                            System.out.println("Cannot divide with 0");
+                            System.out.println("Cannot divide with 0 ");
                         }
                         break;
 
