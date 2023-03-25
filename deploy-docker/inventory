@@ -1,2 +1,2 @@
 [ubuntu]
-node1 ansible_host=172.16.139.235 ansible_connection=ssh ansible_user=ansible_server_user ansible_pass=Hardeep@123
+node0 ansible_host=172.16.139.235 ansible_connection=ssh ansible_user=ansible_server_user ansible_pass=Hardeep@123
