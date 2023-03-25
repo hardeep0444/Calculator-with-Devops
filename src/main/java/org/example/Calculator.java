@@ -75,7 +75,7 @@ public class Calculator {
             }
         }catch (ArithmeticException error)
         {
-            System.out.println("[EXCEPTION - SQ ROOT] - Cannot find square root of negative numbers " + error.getLocalizedMessage());
+            System.out.println("[EXCEPTION - SQ ROOT] -  Cannot find square root of negative numbers " + error.getLocalizedMessage());
         }
 
         logger.info("[RESULT - SQ ROOT] - " + result);
